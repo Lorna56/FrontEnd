@@ -4,3 +4,12 @@ body{
 h1{
     color: red;
 }
+.forest{
+    background-color: blue;
+    color: white;
+}
+
+.goat{
+    background: teal;
+    color: blue;
+}
