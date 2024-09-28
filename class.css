@@ -1,0 +1,14 @@
+#headingOne{
+    text-decoration: line-through;
+}
+ul>li{
+    color: aqua;
+}
+
+img{
+    border-top: black 2px solid;
+    border-left: green 3px dotted;
+    border-bottom: red 1px dashed;
+    padding: 50%;
+    margin:100px;
+}
